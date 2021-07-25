@@ -1,0 +1,18 @@
+﻿  源.cpp
+E:\save hehe\vs3\helpXuexun\helpXuexun\源.cpp(18,1): error C2440: “=”: 无法从“T2”转换为“int *”
+          with
+          [
+              T2=int
+          ]
+E:\save hehe\vs3\helpXuexun\helpXuexun\源.cpp(18,17): message : 从整型强制转换为指针类型要求 reinterpret_cast、C 样式强制转换或函数样式强制转换
+E:\save hehe\vs3\helpXuexun\helpXuexun\源.cpp(11): message : 在编译 类 模板 成员函数“My_array<int **,int>::My_array(int,T2 [])”时
+          with
+          [
+              T2=int
+          ]
+E:\save hehe\vs3\helpXuexun\helpXuexun\源.cpp(69): message : 查看对正在编译的函数 模板 实例化“My_array<int **,int>::My_array(int,T2 [])”的引用
+          with
+          [
+              T2=int
+          ]
+E:\save hehe\vs3\helpXuexun\helpXuexun\源.cpp(69): message : 查看对正在编译的 类 模板 实例化“My_array<int **,int>”的引用

@@ -1,0 +1,8 @@
+﻿  ditionary.cpp
+E:\save hehe\vs3\ditionary\ditionary\ditionary.cpp(52,31): warning C4018: “<”: 有符号/无符号不匹配
+E:\save hehe\vs3\ditionary\ditionary\ditionary.cpp(79,26): warning C4018: “<”: 有符号/无符号不匹配
+E:\save hehe\vs3\ditionary\ditionary\ditionary.cpp(145,39): warning C4018: “<”: 有符号/无符号不匹配
+E:\save hehe\vs3\ditionary\ditionary\ditionary.cpp(155,38): warning C4018: “<”: 有符号/无符号不匹配
+E:\save hehe\vs3\ditionary\ditionary\ditionary.cpp(167,38): warning C4018: “<=”: 有符号/无符号不匹配
+E:\save hehe\vs3\ditionary\ditionary\ditionary.cpp(179,38): warning C4018: “<”: 有符号/无符号不匹配
+  ditionary.vcxproj -> E:\save hehe\vs3\ditionary\Debug\ditionary.exe
